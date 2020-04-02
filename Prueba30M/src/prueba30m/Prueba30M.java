@@ -37,6 +37,10 @@ public class Prueba30M {
         System.out.println("7a. AVE 9-81 Zona 5, Huehuetenango, Huehuetenango ");
         System.out.println("3059-6671 ");
         
+        System.out.println("Nombre: Denis Joel Cifuentes Cano");
+        System.out.println("Direccion: Zona 1, Chiantla Huehuetenango");
+        System.out.println("Telefono: 45883960");
+        
     }
     
 }
