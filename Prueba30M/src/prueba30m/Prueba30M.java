@@ -24,6 +24,10 @@ public class Prueba30M {
         System.out.println("José Dagoberto Pérez Villatoro");
         System.out.println("2da avenida b 9-20 zona 3");
         System.out.println("32801288");
+        
+        System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
+        System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
+        System.out.println("Telefono: 42252923");
     }
     
 }
