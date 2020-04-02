@@ -20,6 +20,10 @@ public class Prueba30M {
         System.out.println("Nombre: Yoisy Yareny Lopez Herrera");
          System.out.println("Direccion ZOna 4, Huehuetenango");
           System.out.println("NTelefono: 45517447");
+        
+        System.out.println("José Dagoberto Pérez Villatoro");
+        System.out.println("2da avenida b 9-20 zona 3");
+        System.out.println("32801288");
     }
     
 }
